@@ -1,4 +1,4 @@
-<center>**Bomb逆向破解**<center>
+<center>**Bomb逆向破解**</center>
 
 **一、实验目的：**
 
